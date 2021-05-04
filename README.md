@@ -1,8 +1,7 @@
 ## Welcome to my GitHub profile, have a look around!
 
 As someone whose found the intersection of statistics, technology and health, and the recognition of patterns fascinating, I enjoy digging into interesting data sets and 
-producing meaningful and data-driven insights using statistical and machine learning methods. Seeing the usefulness of statistics and applying what I am learning as a graduate student has been an awesome adventure. 
-
+producing meaningful and data-driven insights using statistical and machine learning methods. Applying these techniques with data involved in health, business, real estate, and technology has been imperative in seeing the overarching importance of applied statistics across industries.
 
 ### 🌱 I'm currently working on:
 - My Japanese 
