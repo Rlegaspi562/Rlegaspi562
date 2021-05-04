@@ -10,15 +10,18 @@
 As someone whose found the intersection of statistics, technology and health, and the recognition of patterns fascinating, I enjoy digging into interesting data sets and 
 producing meaningful and data-driven insights using statistical and machine learning methods.
 
-- 🔭 I’m currently working on I enjoy building dashboard analytics on Tableau found [here](https://public.tableau.com/profile/rumil5127#!/), blogging on Medium which can be found [here](https://rumil.medium.com/), 
+- 🔭 I’m currently working on I enjoy building dashboard analytics on Tableau found [here](https://public.tableau.com/profile/rumil5127#!/) and blogging on Medium which can be found [here](https://rumil.medium.com/).
+
 - 🌱 I’m currently learning ... Japanese, natural language processing and time series forecasting with a bunch of projects coming out soon, so stay tuned!
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
+
 - 💬 Ask me about ... my lifts, favorite place to get tea, anime to watch, games to play, and NBA team!
+
+
 - 📫 How to reach me: You can follow me or find out more about me and my portfolio in my website [here](https://rumillegaspi.org/) or LinkedIn [here](https://www.linkedin.com/in/rumil96/)
+
+
 - ⚡ Fun facts: My name comes from the combination of my parent's names, Rustico + Mila = Rumil (*RUH*-mill), and enjoy intermittently fasting!
-
-
 
 
 
