@@ -1,28 +1,32 @@
-### Hi there! 👋
-
-<!--
-**Rlegaspi562/Rlegaspi562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---!>
-
-
-# ✨Welcome to my GitHub profile, have a look around!✨
+## Welcome to my GitHub profile, have a look around!
 
 As someone whose found the intersection of statistics, technology and health, and the recognition of patterns fascinating, I enjoy digging into interesting data sets and 
-producing meaningful and data-driven insights using statistical and machine learning methods.
-
-- 🔭 I’m currently working on I enjoy building dashboard analytics on Tableau found [here](https://public.tableau.com/profile/rumil5127#!/) and blogging on Medium which can be found [here](https://rumil.medium.com/).
-
-- 🌱 I’m currently learning ... Japanese, natural language processing and time series forecasting with a bunch of projects coming out soon, so stay tuned!
+producing meaningful and data-driven insights using statistical and machine learning methods. Seeing the usefulness of statistics and applying what I am learning as a graduate student has been an awesome adventure. 
 
 
-- 💬 Ask me about ... my lifts, favorite place to get tea, anime to watch, games to play, and NBA team!
+### 🌱 I'm currently working on:
+- My Japanese 
+- Natural Language Processing 
+- Time Series Forecasting 
+- Projects
 
 
-- 📫 How to reach me: You can follow me or find out more about me and my portfolio in my website [here](https://rumillegaspi.org/) or LinkedIn [here](https://www.linkedin.com/in/rumil96/)
+### 💬 Ask me about:
+ - Favorite place to get tea
+ - Books to read
+ - Animes to watch & games to play
+ - How favorite NBA team is doing!
 
+### ⚡ Fun facts: 
+- My name comes from the combination of my parent's names, Rustico + Mila = Rumil (*RUH*-mill). 
+- I enjoy intermittent fasting.
 
-- ⚡ Fun facts: My name comes from the combination of my parent's names, Rustico + Mila = Rumil (*RUH*-mill), and enjoy intermittently fasting!
+### 📫 How to reach me: 
+-  Website [here](https://rumillegaspi.org/) 
+-  LinkedIn [here](https://www.linkedin.com/in/rumil96/) 
+-  Medium [here](https://rumil.medium.com/)
 
-
-
+<br />
+<br />
 <img src="https://github-readme-stats.vercel.app/api?username=rlegaspi562&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
