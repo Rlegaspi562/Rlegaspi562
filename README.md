@@ -22,10 +22,10 @@ producing meaningful and data-driven insights using statistical and machine lear
 - I enjoy intermittent fasting.
 
 ### 📫 How to reach me: 
--  Website [here](https://rumillegaspi.org/) 
--  LinkedIn [here](https://www.linkedin.com/in/rumil96/) 
--  Medium [here](https://rumil.medium.com/)
--  Tableau [here](https://public.tableau.com/profile/rumil5127#!/)
+-  [Website Portfolio](https://rumillegaspi.org/) 
+-  [LinkedIn](https://www.linkedin.com/in/rumil96/) 
+-  [Medium](https://rumil.medium.com/)
+-  [Tableau](https://public.tableau.com/profile/rumil5127#!/)
 
 
 <br />
