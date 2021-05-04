@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **Rlegaspi562/Rlegaspi562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --!>
+
 
 # ✨Welcome to my GitHub profile, have a look around!✨
 
@@ -16,6 +17,8 @@ producing meaningful and data-driven insights using statistical and machine lear
 - 💬 Ask me about ... my lifts, favorite place to get tea, anime to watch, games to play, and NBA team!
 - 📫 How to reach me: You can follow me or find out more about me and my portfolio in my website [here](https://rumillegaspi.org/) or LinkedIn [here](https://www.linkedin.com/in/rumil96/)
 - ⚡ Fun facts: My name comes from the combination of my parent's names, Rustico + Mila = Rumil (*RUH*-mill), and enjoy intermittently fasting!
+
+
 
 
 
