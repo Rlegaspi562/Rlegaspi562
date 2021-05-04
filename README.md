@@ -20,7 +20,7 @@ producing meaningful and data-driven insights using statistical and machine lear
 - My name comes from the combination of my parent's names, Rustico + Mila = Rumil (*RUH*-mill). 
 - I enjoy intermittent fasting.
 
-### 📫 How to reach me: 
+### 📫 Links & how to reach me: 
 -  [Website Portfolio](https://rumillegaspi.org/) 
 -  [LinkedIn](https://www.linkedin.com/in/rumil96/) 
 -  [Medium](https://rumil.medium.com/)
