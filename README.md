@@ -23,4 +23,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasell sed nibh dignis
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasell sed nibh dignissim, cursus tellus sit amet, ultrices mauris. Aliquam
 
-https://github-readme-stats.vercel.app/api?username=rlegaspi562&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+<img src="https://github-readme-stats.vercel.app/api?username=rlegaspi562&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
