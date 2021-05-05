@@ -1,19 +1,19 @@
 ## Welcome to my GitHub profile, have a look around!
 
-As someone whose found the intersection of statistics, technology and health, and the recognition of patterns fascinating, I enjoy digging into interesting data sets and 
-producing meaningful and data-driven insights using statistical and machine learning methods. Applying these techniques with data involved in health, business, real estate, and technology has been imperative in seeing the overarching importance of applied statistics across industries.
+I'm Rumil, and I am a graduate student studying Applied Statistics.As someone whose found the intersection of statistics, technology and health, and the recognition of patterns fascinating, I enjoy digging into interesting data sets and producing meaningful and data-driven insights using statistical and machine learning methods. As an undergraduate student I focused mainly on public health research creating data driven health programs and curriculums with the guidance of professors. Seeing these comprehensive projects come to life and creating a positive impact within different populations helped sparked my interest in the science of data— otherwise known as data science.
+
+Since then I've commited myself to being an expert Data Scientist and Analyst by ensuring I have strong and foundational statistical background through some of own projects. The application of these techniques from industry to industry such as health, technology, real estate, and business have allowed me to see the power and leverage data can provide. 
 
 ### 🌱 I'm currently working on:
-- My Japanese 
 - Natural Language Processing 
 - Time Series Forecasting 
 - Projects
+- My Japanese
 
 
 ### 💬 Ask me about:
  - Favorite place to get tea
  - Books to read
- - Animes to watch & games to play
  - How favorite NBA team is doing!
 
 ### ⚡ Fun facts: 
