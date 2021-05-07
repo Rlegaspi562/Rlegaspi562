@@ -8,7 +8,7 @@ In my spare time I enjoy using data to help guide my training program as a power
 
 ### 🌱 I'm currently working on:
 - Passion projects
-- Natural language rocessing & time series forecasting
+- Natural language processing & time series forecasting
 - Learning Japanese
 
 
