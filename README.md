@@ -14,12 +14,12 @@ In my spare time I enjoy using data to help guide my training program as a power
 
 ### 💬 Ask me about:
  - Favorite place to get tea
- - Books to read
- - How favorite NBA team is doing!
+ - Books to read 
+ - How my favorite NBA team is doing!
 
 ### ⚡ Fun facts: 
 - My name comes from the combination of my parent's names, Rustico + Mila = Rumil (*RUH*-mill). 
-- I enjoy intermittent fasting.
+- I enjoy doing intermittent fasting .
 
 ### 📫 Links & places to find me: 
 -  [Website Portfolio](https://rumillegaspi.org/) 
