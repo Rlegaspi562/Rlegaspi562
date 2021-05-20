@@ -4,7 +4,7 @@ I'm Rumil, and currently I am a graduate student pursuing my Master's in Applied
 
 Since then I've commited myself to being an expert Data Scientist and Analyst by strengthening and dmeonstrating my statistical background as well as my programming abilities through some of my own projects. The application of these statistical learning techniques from industry to industry such as health, technology, real estate, and business have allowed me to see the power and leverage that data can truly provide. 
 
-In my spare time I enjoy using data to help guide my training program as a powerlifter, reading philosophy or self-help books, playing basketball/video games, and just recently blogging on [medium](https://rumil.medium.com/).
+In my spare time I enjoy using data to help guide my training program as a powerlifter, reading philosophy and self-development books, playing basketball/video games, and just recently blogging on [medium](https://rumil.medium.com/)!
 
 ### 🌱 I'm currently working on:
 - Passion projects
