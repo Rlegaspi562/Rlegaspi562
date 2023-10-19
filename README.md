@@ -1,9 +1,8 @@
 ## Welcome to my GitHub profile, have a look around!
 
-I'm Rumil, currently, I work as a Clinical Data Coordinator while pursuing my Master's in Applied Statistics and Data Analytics. As someone whose found the intersection of statistics, technology and health, and the recognition of patterns fascinating, I enjoy digging into interesting data sets and producing meaningful and data-driven insights using statistical and machine learning methods. Seeing these comprehensive projects come to life and creating a positive impact within different populations continues to spark my interest in the science of data— otherwise known as data science.
+Currently, I work as a Clinical Data Analyst and a recent Master's graduate in Applied Statistics and Data Analytics. The intersection of statistics, technology and health, and pattern recognition is truly fascinating, leading me to enjoy digging into interesting data sets and producing meaningful data-driven insights using statistical learning methods. Seeing these comprehensive projects come to life and creating a positive impact within different populations continues to spark my interest in the science of data— otherwise known as data science.
 
-Since then I've commited myself to being an expert with data by strengthening and demonstrating my statistical background and programming abilities through some of my own projects. The application of these statistical learning techniques vary from industry to industry such as health, technology, real estate, and business, all of which have allowed me to see the power and leverage that data can truly provide. 
-
+Since then I've commited myself to being an expert with data by strengthening and demonstrating my statistical background and programming abilities to developing data pipelines through some of my own personal and professional projects. 
 In my spare time I enjoy using data to help guide my training program as a powerlifter, reading philosophy and self-development books, playing basketball/video games, and just recently blogging on [medium](https://rumil.medium.com/)!
 
 ### 🌱 I'm currently working on:
