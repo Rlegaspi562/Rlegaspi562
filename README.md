@@ -3,7 +3,7 @@
 Currently, I work as a Clinical Data Analyst and Statistical programmer in a Neuromodulation medical device company and a recent Master's graduate in Applied Statistics and Data Analytics. The intersection of statistics, technology and health, and pattern recognition is truly fascinating, leading me to enjoy digging into interesting data sets and producing meaningful data-driven insights using statistical learning methods. Seeing these comprehensive projects come to life and creating a positive impact within different populations continues to spark my interest in the science of data— otherwise known as data science.
 
 Since then I've commited myself to being an expert with data by strengthening and demonstrating my statistical background and programming abilities to developing data pipelines through some of my own personal and professional projects. 
-In my spare time I enjoy using data to help guide my training program as a powerlifter, reading philosophy and self-development books, playing basketball/video games, and just recently blogging on [medium](https://rumil.medium.com/)!
+In my spare time I enjoy using data to help guide my training program as a powerlifter, reading philosophy and self-development books.
 
 ### 🌱 I'm currently working on:
 - Passion projects
