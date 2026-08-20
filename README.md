@@ -27,7 +27,7 @@ In my spare time you'll find me exercising, automating my own workflows, learnin
 
 Inquiries: admin@fabinal.com
 - [LinkedIn](https://www.linkedin.com/in/rumil96/) 
-- [Fabinal](https://www.fabinal.com/))
+- [Fabinal](https://www.fabinal.com/)
 - [YouTube](https://www.youtube.com/@Rumil_AI)
 - [Medium](https://rumil.medium.com/)
 - [Tableau](https://public.tableau.com/profile/rumil5127#!/)
