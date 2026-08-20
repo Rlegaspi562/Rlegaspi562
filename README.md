@@ -21,7 +21,7 @@ In my spare time you'll find me exercising, automating my own workflows, learnin
 
 - My name comes from combining my parents' names: Rustico + Mila = Rumil (*ROO-mill*)
 - I practice OMAD (One Meal A Day)
-- I automated myself out of my own job 😅
+- I automated myself out of my own jobs 😅
 
 ## 🔗 Links & places to find me:
 
